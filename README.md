@@ -19,7 +19,7 @@ Note: For training purposes, I made use of Tesla K80 GPU available for free on G
 
 **Age & Gender Classification** - This model classifies ages into 5 categories: 0-24, 25-49, 50-74, 75-99, 100-124 and gender into 2 categories: male, female. The model was trained on UTKFace dataset (23,708 images) and attained a validation accuracy of 0.8279 and 0.9502 on age and gender classification respectively.
 
-
+![Screenshot 2025-01-08 120329](https://github.com/user-attachments/assets/a79f8d42-73be-45ae-a850-c25ad487639b)
 
 
 ## Importance in real world
